@@ -1,6 +1,11 @@
 ## 
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
 subitems:
-- title: Home
+- title: About
   url: /index
-    
+subitems:
+- title: Training
+  url: /index
+ subitems:
+- title: DaSH Fellows
+  url: /index
