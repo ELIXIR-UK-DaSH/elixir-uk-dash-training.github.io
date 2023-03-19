@@ -2,10 +2,10 @@
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base. About, Training, DaSH Fellows
 subitems:
 - title: About
-  url: /about
+  url: /about_page
 - title: Training
-  url: /training
+  url: /training_page
 - title: For Fellows
   url: /template
 - title: Get Involved 
-  url: /involve
+  url: /involve_page
